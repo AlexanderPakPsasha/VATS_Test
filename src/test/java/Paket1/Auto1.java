@@ -14,5 +14,5 @@ public class Auto1 {
     String s10 = "Привет Антон";
     String s11 = "Привет Антон, Саша, Маша";
     String s12 = "Новая ветка Саша";
-    String s13 = "main";
+    String s13 = "main2";
 }
