@@ -7,4 +7,5 @@ public class Auto1 {
     String s3 = "Привет";
     String s4 = "Привет";
     String s5 = "Привет";
+    String s6 = "Привет";
 }
