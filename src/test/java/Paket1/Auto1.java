@@ -8,4 +8,6 @@ public class Auto1 {
     String s4 = "Привет";
     String s5 = "Привет";
     String s6 = "Привет";
+    String s7 = "Привет";
+    String s8 = "Привет Саша";
 }
