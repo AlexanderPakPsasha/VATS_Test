@@ -46,7 +46,7 @@
 <<<<<<< HEAD
     <string name="ans_rigtone">Ringtone</string>
 =======
-    <string name="ans_rigtone">Рингтон</string>
+    <string name="ans_rigtone">Ringtone</string>
 >>>>>>> 422d5efdd17dde17b951894d89b16b98831b0634
 >>>>>>> 71f0a98a3866f02fa669dfbff19eed7a4ddc4abf
     <string-array name="ans_ringtone_type">
