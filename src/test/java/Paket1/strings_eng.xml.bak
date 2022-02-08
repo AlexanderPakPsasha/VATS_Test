@@ -36,7 +36,7 @@
     <string name="ans_incoming_call_settings">Настройки входящих вызовов</string>
     <string name="ans_music">Музыка</string>
     <string name="ans_vibro">Вибрация</string>
-    <string name="ans_rigtone">Ringtone</string>
+    <string name="ans_rigtone">Рингтон</string>
     <string-array name="ans_ringtone_type">
         <item>Рингтон 1</item>
         <item>Рингтон 2</item>
