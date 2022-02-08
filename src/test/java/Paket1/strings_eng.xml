@@ -397,24 +397,24 @@ Incoming call </string>
     <string name="in_history_List_empty">The incoming call history list is empty.</string>
 
     <string name="out_history_list_load">Loading outgoing call history...</string>
-    <string name="out_history_list_empty">Список истории исходящих звонков пуст.</string>
+    <string name="out_history_list_empty">Outgoing call history list is empty.</string>
 
-    <string name="miss_history_list_load">Идёт загрузка истории пропущенных звонков...</string>
-    <string name="miss_history_list_empty">Список истории пропущенных звонков пуст.</string>
+    <string name="miss_history_list_load">Missed call history is loading...</string>
+    <string name="miss_history_list_empty">Missed call history list is empty.</string>
 
-    <string name="synchronized_contacts">Синхронизация контактов...</string>
+    <string name="synchronized_contacts">Contact sync...</string>
 
     <string name="CONTACT_PERMISSION_GRANTED">CONTACT_PERMISSION_GRANTED</string>
 
 
-    <string name="settings_account_info">Аккаунт</string>
+    <string name="settings_account_info">Account</string>
 
 
     <string name="permision_available_contacts">Contacts Permissions have been granted. Contacts screen can now be opened.</string>
     <string name="permissions_not_granted">Permissions were not granted.</string>
     <string name="todo">TODO</string>
 
-    <string name="statistics">Статистика</string>
+    <string name="statistics">Statistics</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
