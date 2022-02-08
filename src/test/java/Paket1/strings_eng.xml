@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Virtual PBX</string>
 
-    <string name="incoming">Входящий</string>
+    <string name="incoming">Incoming</string>
     <string name="outcoming">Вызывается</string>
     <string name="talk">Разговор</string>
     <string name="end_talk">Завершен</string>
