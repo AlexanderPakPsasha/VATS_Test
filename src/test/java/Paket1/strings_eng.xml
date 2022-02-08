@@ -279,23 +279,23 @@ Statistics</string>
 
     <string name="default_sound">com.virtualats.softphone.DEFAULT_SOUND</string>
 
-    <string name="version_text_format">Версия %s</string>
+    <string name="version_text_format">Version %s</string>
 
-    <string name="registration_failure">Ошибка регистрации.</string>
-    <string name="not_enough_credentials_for_registration">Недостаточно данных для авторизации.</string>
-    <string name="auth_error_check_account_settings">Ошибка авторизации. Проверьте настройки учетной записи.</string>
-    <string name="server_temporary_unavailable">Сервер временно недоступен.</string>
-    <string name="user_not_found">Пользователь не найден.</string>
-    <string name="request_timeout_can_not_get_resp_from_srv">Превышено время ожидания. Сервер не отвечает.</string>
-    <string name="network_connection_not_available">Сеть недоступна.</string>
-    <string name="registration_erorr">Ошибка регистрации.</string>
-    <string name="connecting">Соединение</string>
-    <string name="later">Позже</string>
-    <string name="modify">Изменить</string>
-    <string name="verify">Проверить</string>
-    <string name="cancel">Отменить</string>
-    <string name="wrong_user_agent">Данное приложение работает только с доменами услуги  компании \«Oraange\»</string>
-    <string name="miss_call">Пропущенный вызов</string>
+    <string name="registration_failure">Registration error.</string>
+    <string name="not_enough_credentials_for_registration">Insufficient data for authorization.</string>
+    <string name="auth_error_check_account_settings">Authorisation error. Check your account settings.</string>
+    <string name="server_temporary_unavailable">Server temporarily unavailable.</string>
+    <string name="user_not_found">User is not found.</string>
+    <string name="request_timeout_can_not_get_resp_from_srv">Timeout exceeded. The server is not responding.</string>
+    <string name="network_connection_not_available">The network is unavailable.</string>
+    <string name="registration_erorr">Registration error.</string>
+    <string name="connecting">Connecting</string>
+    <string name="later">Later</string>
+    <string name="modify">Change</string>
+    <string name="verify">Check</string>
+    <string name="cancel">Cancel</string>
+    <string name="wrong_user_agent">This application only works with company service domains \«Oraange\»</string>
+    <string name="miss_call">Missed call</string>
 
     <string name="contact_numbers">Contact number:</string>
     <string name="last_calls">Recent calls:</string>
@@ -338,35 +338,35 @@ Statistics</string>
     <string name="ringing">
 Incoming call </string>
 
-    <string name="search_contact_or_group">Поиск аккаунта или группы</string>
+    <string name="search_contact_or_group">Search for an account or group</string>
 
-    <string name="initialization">Инициализация</string>
+    <string name="initialization">Initialization</string>
 
-    <string name="accept">Принять</string>
+    <string name="accept">Accept</string>
 
-    <string name="video_not_support">Данное соединение не поддерживает возможность видео вызова</string>
-    <string name="second_call_unavailable">Вы не можете совершить вызов во время текущего разговора</string>
-    <string name="mobile_cell_call_unavailable">Звонки через мобильный интернет недоступны</string>
-    <string name="call_unavailable_during_phone_call">Вы не можете совершить вызов во время телефонного разговора</string>
+    <string name="video_not_support">This connection does not support video calling</string>
+    <string name="second_call_unavailable">You cannot make a call during an ongoing call</string>
+    <string name="mobile_cell_call_unavailable">Calls via mobile internet are not available</string>
+    <string name="call_unavailable_during_phone_call">You cannot make a call while on a call</string>
 
-    <string name="enter_number">Наберите номер</string>
+    <string name="enter_number">Dial a number</string>
 
-    <string name="about_sdk">Программа разработана с использованием библиотеки обработки медиа-данных IntegrIT CrystalVu, 2015</string>
-    <string name="im_status_wait">Отправка</string>
-    <string name="im_status_error">Ошибка</string>
-    <string name="skip">ПРОПУСТИТЬ</string>
-    <string name="next">ДАЛЕЕ</string>
-    <string name="begin">НАЧАТЬ</string>
-    <string name="previous">Назад</string>
-    <string name="account_reg_duplication_msg">Под вашей учетной записью зарегистрировались с другого устройства</string>
-    <string name="self_status_vacant">Свободен</string>
-    <string name="self_status_dnd">Не беспокоить</string>
-    <string name="self_status_offline">Heт соединения</string>
-    <string name="show_contact_status">Отображать статус</string>
-    <string name="subscription_limit_reached">Достигнуто максимальное количество подписок на статусы сотрудников.</string>
-    <string name="subscription_limit_reached_title">Достигнуто максимальное количество подписок</string>
+    <string name="about_sdk">The program was developed using the media data processing library IntegrIT CrystalVu, 2015</string>
+    <string name="im_status_wait">Sending</string>
+    <string name="im_status_error">Error</string>
+    <string name="skip">SKIP</string>
+    <string name="next">NEXT</string>
+    <string name="begin">BEGIN</string>
+    <string name="previous">Back</string>
+    <string name="account_reg_duplication_msg">Registered under your account from another device</string>
+    <string name="self_status_vacant">Free</string>
+    <string name="self_status_dnd">Not disturb</string>
+    <string name="self_status_offline">No connection</string>
+    <string name="show_contact_status">Display status</string>
+    <string name="subscription_limit_reached">The maximum number of subscriptions to employee statuses has been reached.</string>
+    <string name="subscription_limit_reached_title">The maximum number of subscriptions has been reached</string>
 
-    <string name="contant_not_found">Контакт не найден.</string>
+    <string name="contant_not_found">Contact not found.</string>
 
     <string name="ats_contacts_load_msg">Загрузка контактов…</string>
     <string name="ats_contacts_empty_msg">Нет серверных контактов. </string>
