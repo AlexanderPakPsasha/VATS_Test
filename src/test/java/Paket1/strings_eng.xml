@@ -4,7 +4,7 @@
     <string name="incoming">Incoming</string>
     <string name="outcoming">Called</string>
     <string name="talk">Talk</string>
-    <string name="end_talk">call ended</string>
+    <string name="end_talk">Call ended</string>
 
     <!-- Заголовки таблицы статистики -->
     <string name="time">Time</string>
@@ -84,8 +84,7 @@
     <string name="service_control">Service management</string>
     <string name="advance">Advance</string>
     <string name="redirection">Forwarding</string>
-    <string name="call_statistic">
-Statistics</string>
+    <string name="call_statistic">Statistics</string>
     <string name="codecs_settings">Codecs settings</string>
     <string name="about">About Us</string>
 
@@ -132,7 +131,7 @@ Statistics</string>
 
     <string-array name="main_view_array">
         <item>Contacts</item>
-        <item>dialer</item>
+        <item>Dialer</item>
         <item>Journal</item>
         <item>Messages</item>
         <item>Voice mail</item>
@@ -268,13 +267,13 @@ Statistics</string>
 
     <string name="category_employees">Employees</string>
     <string name="category_personal">Personal</string>
-    <string name="category_global">Are common</string>
+    <string name="category_global">General</string>
 
-    <string name="number_type_inner">Interior</string>
+    <string name="number_type_inner">Internal</string>
     <string name="number_type_sip">SIP-number</string>
     <string name="number_type_home">Home</string>
     <string name="number_type_cell">Mobile</string>
-    <string name="number_type_work">Worker</string>
+    <string name="number_type_work">Work</string>
     <string name="number_type_other">Another</string>
 
     <string name="default_sound">com.virtualats.softphone.DEFAULT_SOUND</string>
@@ -335,8 +334,7 @@ Statistics</string>
     <string name="connected">Conversation</string>
     <string name="busy">Busy</string>
     <string name="hold">Hold-down </string>
-    <string name="ringing">
-Incoming call </string>
+    <string name="ringing">Incoming call </string>
 
     <string name="search_contact_or_group">Search for an account or group</string>
 
