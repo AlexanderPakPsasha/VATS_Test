@@ -374,7 +374,7 @@ Incoming call </string>
     <string name="online_contacts_load_msg">Loading contacts...</string>
     <string name="online_contacts_empty_msg">To view information about the statuses of other Users, go to the contact page of the selected User and enable the option \"Show status\".</string>
 
-    <string name="favorite_contacts_load_msg">Загрузка контактов...</string>
+    <string name="favorite_contacts_load_msg">Loading contacts...</string>
     <string name="favorite_contacts_empty_msg">To add contacts to \«favorites\», go to the page of the selected contact and enable the option \"Favorite contact\".</string>
 
     <string name="mobile_contacts_load_msg">Loading contacts...</string>
