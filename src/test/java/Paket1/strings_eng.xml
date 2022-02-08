@@ -61,16 +61,16 @@
 
     <!-- Main Menu Bar (mmb)-->
     <string name="mmb_contacts">Contacts</string>
-    <string name="mmb_dialer">Keys</string>
+    <string name="mmb_dialer">Dialer</string>
     <string name="mmb_history">Journal</string>
-    <string name="mmb_msg">Сообщения</string>
+    <string name="mmb_msg">Messages</string>
     <string name="mmb_settings">Settings</string>
 
     <!-- Fragment History -->
     <string name="all_history">All</string>
     <string name="in_history">Incoming</string>
-    <string name="out_history">Исходящие</string>
-    <string name="miss_history">Пропущенные</string>
+    <string name="out_history">Outgoing</string>
+    <string name="miss_history">Missed</string>
 
     <!-- Fragment Settings -->
     <string name="status_free">Available</string>
@@ -89,9 +89,9 @@ Statistics</string>
     <string name="codecs_settings">Codecs settings</string>
     <string name="about">About Us</string>
 
-    <string name="default_btn">Настройки по умолчанию</string>
-    <string name="close_app">Выход из приложения</string>
-    <string name="exit">Выход</string>
+    <string name="default_btn">Default settings</string>
+    <string name="close_app">Exiting the application</string>
+    <string name="exit">Exit</string>
 
     <!--  Strings for possible PreferenceActivity Back/Next buttons -->
     <string name="back_button_label">Back</string>
@@ -120,12 +120,12 @@ Statistics</string>
     <string name="is_storage">isAccessStorage</string>
     <string name="is_camera">isAccessCamera</string>
 
-    <string name="noMicPermission">Для дальнейшей работы предоставьте приложению доступ к микрофону в разделе \«Настройки\» устройства.</string>
-    <string name="nullCamera">Для совершения видео вызовов разрешите приложению пользоваться камерой телефона</string>
-    <string name="nulllDataSto">Для дальнейшей работы необходимо предоставить приложению доступ к записи на устройство</string>
+    <string name="noMicPermission">For further work, grant the application access to the microphone in the \"Settings\" section of the device.</string>
+    <string name="nullCamera">Allow the app to use your phone's camera to make video calls</string>
+    <string name="nulllDataSto">For further work, you must grant the application write access to the device</string>
 
     <string-array name="status_array">
-        <item>Свободен</item>
+        <item>Free</item>
         <item>Не беспокоить</item>
         <item>Нет соединения</item>
     </string-array>
