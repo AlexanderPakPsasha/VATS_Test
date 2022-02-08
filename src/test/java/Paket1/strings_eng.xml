@@ -68,8 +68,8 @@
     <string name="mmb_settings">Настройки</string>
 
     <!-- Fragment History -->
-    <string name="all_history">Все</string>
-    <string name="in_history">Входящие</string>
+    <string name="all_history">All</string>
+    <string name="in_history">Incoming</string>
     <string name="out_history">Исходящие</string>
     <string name="miss_history">Пропущенные</string>
 
