@@ -126,18 +126,18 @@ Statistics</string>
 
     <string-array name="status_array">
         <item>Free</item>
-        <item>Не беспокоить</item>
-        <item>Нет соединения</item>
+        <item>Do not disturb</item>
+        <item>No connections</item>
     </string-array>
 
     <string-array name="main_view_array">
-        <item>Контакты</item>
-        <item>Клавиши</item>
-        <item>Журнал</item>
-        <item>Сообщения</item>
-        <item>Голосовая почта</item>
-        <item>Настройки</item>
-        <item>Завершить работу</item>
+        <item>Contacts</item>
+        <item>dialer</item>
+        <item>Journal</item>
+        <item>Messages</item>
+        <item>Voice mail</item>
+        <item>Settings</item>
+        <item>To finish work</item>
     </string-array>
     <string name="drawer_open">Open navigation drawer</string>
     <string name="drawer_close">Close navigation drawer</string>
