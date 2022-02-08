@@ -56,7 +56,7 @@
     <!-- Activity Account Editor (aac)-->
     <string name="aac_auth_title">Authorization data</string>
     <string name="aac_advance_title">Extra options</string>
-    <string name="aac_not_valid_port">Недопустимое значение порта!</string>
+    <string name="aac_not_valid_port">Invalid port value!</string>
     <string name="aac_not_valid_reg_timeout">Invalid registration expiration time value!</string>
 
     <!-- Main Menu Bar (mmb)-->
