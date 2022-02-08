@@ -337,35 +337,35 @@ Statistics</string>
     <string name="hold">Удержание</string>
     <string name="ringing">Входящий вызов</string>
 
-    <string name="search_contact_or_group">Поиск аккаунта или группы</string>
+    <string name="search_contact_or_group">Search for an account or group</string>
 
-    <string name="initialization">Инициализация</string>
+    <string name="initialization">Initialization</string>
 
-    <string name="accept">Принять</string>
+    <string name="accept">Accept</string>
 
-    <string name="video_not_support">Данное соединение не поддерживает возможность видео вызова</string>
-    <string name="second_call_unavailable">Вы не можете совершить вызов во время текущего разговора</string>
-    <string name="mobile_cell_call_unavailable">Звонки через мобильный интернет недоступны</string>
-    <string name="call_unavailable_during_phone_call">Вы не можете совершить вызов во время телефонного разговора</string>
+    <string name="video_not_support">This connection does not support video calling</string>
+    <string name="second_call_unavailable">You cannot make a call during an ongoing call</string>
+    <string name="mobile_cell_call_unavailable">Calls via mobile internet are not available</string>
+    <string name="call_unavailable_during_phone_call">You cannot make a call while on a call</string>
 
-    <string name="enter_number">Наберите номер</string>
+    <string name="enter_number">Dial a number</string>
 
-    <string name="about_sdk">Программа разработана с использованием библиотеки обработки медиа-данных IntegrIT CrystalVu, 2015</string>
-    <string name="im_status_wait">Отправка</string>
-    <string name="im_status_error">Ошибка</string>
-    <string name="skip">ПРОПУСТИТЬ</string>
-    <string name="next">ДАЛЕЕ</string>
-    <string name="begin">НАЧАТЬ</string>
-    <string name="previous">Назад</string>
-    <string name="account_reg_duplication_msg">Под вашей учетной записью зарегистрировались с другого устройства</string>
-    <string name="self_status_vacant">Свободен</string>
-    <string name="self_status_dnd">Не беспокоить</string>
-    <string name="self_status_offline">Heт соединения</string>
-    <string name="show_contact_status">Отображать статус</string>
-    <string name="subscription_limit_reached">Достигнуто максимальное количество подписок на статусы сотрудников.</string>
-    <string name="subscription_limit_reached_title">Достигнуто максимальное количество подписок</string>
+    <string name="about_sdk">The program was developed using the media data processing library IntegrIT CrystalVu, 2015</string>
+    <string name="im_status_wait">Sending</string>
+    <string name="im_status_error">Error</string>
+    <string name="skip">SKIP</string>
+    <string name="next">NEXT</string>
+    <string name="begin">BEGIN</string>
+    <string name="previous">Back</string>
+    <string name="account_reg_duplication_msg">Registered under your account from another device</string>
+    <string name="self_status_vacant">Free</string>
+    <string name="self_status_dnd">Not disturb</string>
+    <string name="self_status_offline">No connection</string>
+    <string name="show_contact_status">Display status</string>
+    <string name="subscription_limit_reached">The maximum number of subscriptions to employee statuses has been reached.</string>
+    <string name="subscription_limit_reached_title">The maximum number of subscriptions has been reached</string>
 
-    <string name="contant_not_found">Контакт не найден.</string>
+    <string name="contant_not_found">Contact not found.</string>
 
     <string name="ats_contacts_load_msg">Загрузка контактов…</string>
     <string name="ats_contacts_empty_msg">Нет серверных контактов. </string>
