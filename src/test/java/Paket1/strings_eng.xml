@@ -199,9 +199,9 @@ Statistics</string>
     </string-array>
 
     <string-array name="type_numbers">
-        <item>IP-телефон</item>
-        <item>Мобильный</item>
-        <item>Другой</item>
+        <item>IP-phone</item>
+        <item>Mobile</item>
+        <item>Another</item>
     </string-array>
 
     <string-array name="times">
@@ -255,26 +255,26 @@ Statistics</string>
         <item>23:30</item>
     </string-array>
 
-    <string name="on_number">Включить номер</string>
-    <string name="off_number">Выключить номер</string>
+    <string name="on_number">Enable number</string>
+    <string name="off_number">Turn off the number</string>
 
 
-    <string name="today">Сегодня</string>
-    <string name="yesterday">Вчера</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
 
-    <string name="duration_minute">мин.</string>
-    <string name="duration_second">сек.</string>
-    <string name="duration_hour">ч</string>
+    <string name="duration_minute">min.</string>
+    <string name="duration_second">sec.</string>
+    <string name="duration_hour">h</string>
 
-    <string name="category_employees">Сотрудники</string>
-    <string name="category_personal">Личные</string>
-    <string name="category_global">Общие</string>
+    <string name="category_employees">Employees</string>
+    <string name="category_personal">Personal</string>
+    <string name="category_global">Are common</string>
 
-    <string name="number_type_inner">Внутренний</string>
-    <string name="number_type_sip">SIP-номер</string>
-    <string name="number_type_home">Домашний</string>
-    <string name="number_type_cell">Мобильный</string>
-    <string name="number_type_work">Рабочий</string>
+    <string name="number_type_inner">Interior</string>
+    <string name="number_type_sip">SIP-number</string>
+    <string name="number_type_home">Home</string>
+    <string name="number_type_cell">Mobile</string>
+    <string name="number_type_work">Worker</string>
     <string name="number_type_other">Другой</string>
 
     <string name="default_sound">com.virtualats.softphone.DEFAULT_SOUND</string>
