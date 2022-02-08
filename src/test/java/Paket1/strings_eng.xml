@@ -73,20 +73,21 @@
     <string name="miss_history">Пропущенные</string>
 
     <!-- Fragment Settings -->
-    <string name="status_free">Свободен</string>
-    <string name="status_no_connection">Нет соединения</string>
-    <string name="busy_status">Не беспокоить</string>
-    <string name="status_offline">Оффлайн</string>
-    <string name="busy_status_descreption">Входящие вызовы отбиваются или переводятся на голосовую почту</string>
-    <string name="account">Учетная запись</string>
-    <string name="notification">Уведомления</string>
-    <string name="telephony">Телефония</string>
-    <string name="service_control">Управление услугой</string>
-    <string name="advance">Дополнительно</string>
-    <string name="redirection">Переадресация</string>
-    <string name="call_statistic">Статистика</string>
-    <string name="codecs_settings">Кодеки</string>
-    <string name="about">О нас</string>
+    <string name="status_free">Available</string>
+    <string name="status_no_connection">Nonconnection</string>
+    <string name="busy_status">Do not disturb</string>
+    <string name="status_offline">Offline</string>
+    <string name="busy_status_descreption">Incoming calls are rejected or transferred to voicemail</string>
+    <string name="account">Account</string>
+    <string name="notification">Notification</string>
+    <string name="telephony">Telephony</string>
+    <string name="service_control">Service management</string>
+    <string name="advance">Advance</string>
+    <string name="redirection">Forwarding</string>
+    <string name="call_statistic">
+Statistics</string>
+    <string name="codecs_settings">Codecs settings</string>
+    <string name="about">About Us</string>
 
     <string name="default_btn">Настройки по умолчанию</string>
     <string name="close_app">Выход из приложения</string>
