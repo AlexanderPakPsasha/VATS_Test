@@ -64,7 +64,7 @@
     <string name="mmb_dialer">Backspacer</string>
     <string name="mmb_history">Journal</string>
     <string name="mmb_msg">Сообщения</string>
-    <string name="mmb_settings">Настройки</string>
+    <string name="mmb_settings">Settings</string>
 
     <!-- Fragment History -->
     <string name="all_history">Все</string>
