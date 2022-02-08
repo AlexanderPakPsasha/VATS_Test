@@ -57,7 +57,7 @@
     <string name="aac_auth_title">Authorization data</string>
     <string name="aac_advance_title">Дополнительные параметры</string>
     <string name="aac_not_valid_port">Недопустимое значение порта!</string>
-    <string name="aac_not_valid_reg_timeout">Недопустимое значение времени истечения регистрации!</string>
+    <string name="aac_not_valid_reg_timeout">Invalid registration expiration time value!</string>
 
     <!-- Main Menu Bar (mmb)-->
     <string name="mmb_contacts">Контакты</string>
