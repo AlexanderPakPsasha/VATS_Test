@@ -51,7 +51,7 @@
     </string-array>
 
     <!-- Contact Detaly Activity (cda)-->
-    <string name="cdaToolbarTitle">Карточка контакта</string>
+    <string name="cdaToolbarTitle">Contact card</string>
 
     <!-- Activity Account Editor (aac)-->
     <string name="aac_auth_title">Authorization data</string>
