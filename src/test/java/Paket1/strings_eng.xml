@@ -4,7 +4,7 @@
     <string name="incoming">Incoming</string>
     <string name="outcoming">Called</string>
     <string name="talk">Talk</string>
-    <string name="end_talk">Завершен</string>
+    <string name="end_talk">call ended</string>
 
     <!-- Заголовки таблицы статистики -->
     <string name="time">Время</string>
