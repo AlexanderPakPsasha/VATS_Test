@@ -7,35 +7,35 @@
     <string name="end_talk">call ended</string>
 
     <!-- Заголовки таблицы статистики -->
-    <string name="time">Время</string>
-    <string name="all">Все</string>
-    <string name="in">Вх.</string>
-    <string name="out">Исх.</string>
-    <string name="miss">Проп.</string>
+    <string name="time">Time</string>
+    <string name="all">All</string>
+    <string name="in">In</string>
+    <string name="out">Out</string>
+    <string name="miss">Miss</string>
 
     <!-- Welcome Fragment-->
-    <string name="skip_btn">пропустить</string>
-    <string name="next_btn">Далее</string>
-    <string name="start_btn">Начать</string>
-    <string name="first_welcome_text">С помощью приложения для услуги «Виртуальная АТС» совершайте аудио и видео вызовы управляйте контактной информацией просматривайте журнал звонков</string>
-    <string name="second_welcome_text">Звони на короткие номера внутри компании, городские, мобильные и SIP-номера!</string>
-    <string name="third_welcome_text">Используй адресную книгу Виртуальной АТС и мобильного телефона!</string>
-    <string name="fourth_welcome_text">Общайся по видеосвязи и оставляй голосовые сообщения!</string>
-    <string name="fifth_welcome_text">Получай уведомления о звонках, ведь телефон работает в фоновом режиме!</string>
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="start_btn">Start</string>
+    <string name="first_welcome_text">Use the application for the Virtual PBX service to make audio and video calls manage contact information view the call log</string>
+    <string name="second_welcome_text">Call short numbers within the company, landline, mobile, and SIP numbers!</string>
+    <string name="third_welcome_text">Use the address book of Virtual PBX and mobile phone!</string>
+    <string name="fourth_welcome_text">Chat via video call and leave voice messages!</string>
+    <string name="fifth_welcome_text">Get notifications about calls because the phone is running in the background!</string>
 
     <!-- Activity Advance Settings (aas) -->
-    <string name="aas_journal_title">Журнал</string>
-    <string name="aas_clear_journal">Очистить журнал вызовов</string>
-    <string name="aas_talk_title">Разговор</string>
-    <string name="aas_proximity_sensor">Датчик приближения</string>
-    <string name="aas_sound_title">Звук</string>
-    <string name="aas_echo_cancellation">Эхоподавление</string>
+    <string name="aas_journal_title">Call log</string>
+    <string name="aas_clear_journal">Clean call log</string>
+    <string name="aas_talk_title">Talk</string>
+    <string name="aas_proximity_sensor">Proximity sensor</string>
+    <string name="aas_sound_title">Sound</string>
+    <string name="aas_echo_cancellation">Echo cancellation</string>
 
     <!-- Activity Notification Settings (ans) -->
-    <string name="backgound_calls">Получение вызовов в фоне</string>
-    <string name="ans_incoming_call_settings">Настройки входящих вызовов</string>
-    <string name="ans_music">Музыка</string>
-    <string name="ans_vibro">Вибрация</string>
+    <string name="backgound_calls">Receiving calls in the background</string>
+    <string name="ans_incoming_call_settings">Incoming call settings</string>
+    <string name="ans_music">Music</string>
+    <string name="ans_vibro">Vibration</string>
     <string name="ans_rigtone">Рингтон</string>
     <string-array name="ans_ringtone_type">
         <item>Рингтон 1</item>
