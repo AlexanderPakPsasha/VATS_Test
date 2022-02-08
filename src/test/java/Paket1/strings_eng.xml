@@ -1,0 +1,434 @@
+<resources>
+    <string name="app_name">Virtual PBX</string>
+
+    <string name="incoming">Входящий</string>
+    <string name="outcoming">Вызывается</string>
+    <string name="talk">Разговор</string>
+    <string name="end_talk">Завершен</string>
+
+    <!-- Заголовки таблицы статистики -->
+    <string name="time">Время</string>
+    <string name="all">Все</string>
+    <string name="in">Вх.</string>
+    <string name="out">Исх.</string>
+    <string name="miss">Проп.</string>
+
+    <!-- Welcome Fragment-->
+    <string name="skip_btn">пропустить</string>
+    <string name="next_btn">Далее</string>
+    <string name="start_btn">Начать</string>
+    <string name="first_welcome_text">С помощью приложения для услуги «Виртуальная АТС» совершайте аудио и видео вызовы управляйте контактной информацией просматривайте журнал звонков</string>
+    <string name="second_welcome_text">Звони на короткие номера внутри компании, городские, мобильные и SIP-номера!</string>
+    <string name="third_welcome_text">Используй адресную книгу Виртуальной АТС и мобильного телефона!</string>
+    <string name="fourth_welcome_text">Общайся по видеосвязи и оставляй голосовые сообщения!</string>
+    <string name="fifth_welcome_text">Получай уведомления о звонках, ведь телефон работает в фоновом режиме!</string>
+
+    <!-- Activity Advance Settings (aas) -->
+    <string name="aas_journal_title">Журнал</string>
+    <string name="aas_clear_journal">Очистить журнал вызовов</string>
+    <string name="aas_talk_title">Разговор</string>
+    <string name="aas_proximity_sensor">Датчик приближения</string>
+    <string name="aas_sound_title">Звук</string>
+    <string name="aas_echo_cancellation">Эхоподавление</string>
+
+    <!-- Activity Notification Settings (ans) -->
+    <string name="backgound_calls">Получение вызовов в фоне</string>
+    <string name="ans_incoming_call_settings">Настройки входящих вызовов</string>
+    <string name="ans_music">Музыка</string>
+    <string name="ans_vibro">Вибрация</string>
+    <string name="ans_rigtone">Рингтон</string>
+    <string-array name="ans_ringtone_type">
+        <item>Рингтон 1</item>
+        <item>Рингтон 2</item>
+    </string-array>
+
+    <!-- Activity Telephony Settings (ats) -->
+    <string name="ats_video_quality">Качество видео</string>
+    <string-array name="ats_video_quality_type">
+        <item>Плохое</item>
+        <item>Среднее</item>
+        <item>Хорошее</item>
+    </string-array>
+
+    <!-- Contact Detaly Activity (cda)-->
+    <string name="cdaToolbarTitle">Карточка контакта</string>
+
+    <!-- Activity Account Editor (aac)-->
+    <string name="aac_auth_title">Авторизационные данные</string>
+    <string name="aac_advance_title">Дополнительные параметры</string>
+    <string name="aac_not_valid_port">Недопустимое значение порта!</string>
+    <string name="aac_not_valid_reg_timeout">Недопустимое значение времени истечения регистрации!</string>
+
+    <!-- Main Menu Bar (mmb)-->
+    <string name="mmb_contacts">Контакты</string>
+    <string name="mmb_dialer">Клавиши</string>
+    <string name="mmb_history">Журнал</string>
+    <string name="mmb_msg">Сообщения</string>
+    <string name="mmb_settings">Настройки</string>
+
+    <!-- Fragment History -->
+    <string name="all_history">Все</string>
+    <string name="in_history">Входящие</string>
+    <string name="out_history">Исходящие</string>
+    <string name="miss_history">Пропущенные</string>
+
+    <!-- Fragment Settings -->
+    <string name="status_free">Свободен</string>
+    <string name="status_no_connection">Нет соединения</string>
+    <string name="busy_status">Не беспокоить</string>
+    <string name="status_offline">Оффлайн</string>
+    <string name="busy_status_descreption">Входящие вызовы отбиваются или переводятся на голосовую почту</string>
+    <string name="account">Учетная запись</string>
+    <string name="notification">Уведомления</string>
+    <string name="telephony">Телефония</string>
+    <string name="service_control">Управление услугой</string>
+    <string name="advance">Дополнительно</string>
+    <string name="redirection">Переадресация</string>
+    <string name="call_statistic">Статистика</string>
+    <string name="codecs_settings">Кодеки</string>
+    <string name="about">О нас</string>
+
+    <string name="default_btn">Настройки по умолчанию</string>
+    <string name="close_app">Выход из приложения</string>
+    <string name="exit">Выход</string>
+
+    <!--  Strings for possible PreferenceActivity Back/Next buttons -->
+    <string name="back_button_label">Back</string>
+    <string name="next_button_label">Next</string>
+
+    <!-- Optional button to Skip a PreferenceActivity [CHAR LIMIT=20] -->
+    <string name="skip_button_label">Skip</string>
+    <string name="action_settings">Settings</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="didAccessRequest">didAccessRequest</string>
+
+    <string name="PERMISSIONS_REQUEST_RECORD_AUDIO">PERMISSIONS_REQUEST_RECORD_AUDIO</string>
+    <string name="PERMISSIONS_REQUEST_CAMERA">PERMISSIONS_REQUEST_CAMERA</string>
+    <string name="PERMISSIONS_REQUEST_BLUETOOTH">PERMISSIONS_REQUEST_BLUETOOTH</string>
+    <string name="PERMISSIONS_REQUEST_INTERNET">PERMISSIONS_REQUEST_INTERNET</string>
+    <string name="PERMISSIONS_REQUEST_READ_EXTERNAL_STORAGE">PERMISSIONS_REQUEST_READ_EXTERNAL_STORAGE</string>
+    <string name="PERMISSIONS_REQUEST_ACCOUNTS">PERMISSIONS_REQUEST_ACCOUNTS</string>
+    <string name="PERMISSIONS_REQUEST_CALL_PHONE">PERMISSIONS_REQUEST_CALL_PHONE</string>
+    <string name="PERMISSIONS_REQUEST_READ_PHONE_STAT">PERMISSIONS_REQUEST_READ_PHONE_STAT</string>
+    <string name="PERMISSIONS_REQUEST_CONTACTS">PERMISSIONS_REQUEST_CONTACTS</string>
+
+    <string name="is_audio">isAccessAudio</string>
+    <string name="is_storage">isAccessStorage</string>
+    <string name="is_camera">isAccessCamera</string>
+
+    <string name="noMicPermission">Для дальнейшей работы предоставьте приложению доступ к микрофону в разделе \«Настройки\» устройства.</string>
+    <string name="nullCamera">Для совершения видео вызовов разрешите приложению пользоваться камерой телефона</string>
+    <string name="nulllDataSto">Для дальнейшей работы необходимо предоставить приложению доступ к записи на устройство</string>
+
+    <string-array name="status_array">
+        <item>Свободен</item>
+        <item>Не беспокоить</item>
+        <item>Нет соединения</item>
+    </string-array>
+
+    <string-array name="main_view_array">
+        <item>Контакты</item>
+        <item>Клавиши</item>
+        <item>Журнал</item>
+        <item>Сообщения</item>
+        <item>Голосовая почта</item>
+        <item>Настройки</item>
+        <item>Завершить работу</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="numpad_button1">1</string>
+    <string name="numpad_button2">2</string>
+    <string name="numpad_button3">3</string>
+    <string name="numpad_button4">4</string>
+    <string name="numpad_button5">5</string>
+    <string name="numpad_button6">6</string>
+    <string name="numpad_button7">7</string>
+    <string name="numpad_button8">8</string>
+    <string name="numpad_button9">9</string>
+    <string name="numpad_button10">#</string>
+    <string name="numpad_button11_first">0</string>
+    <string name="numpad_button11_second">+</string>
+    <string name="numpad_button12">*</string>
+    <string-array name="entries">
+        <item>UDP</item>
+        <item>TCP</item>
+    </string-array>
+    <string-array name="entry_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+    <string name="incom_call_ringtone_def">ringtone1</string>
+    <string-array name="call_rington_entries">
+        <item>Рингтон 1</item>
+        <item>Рингтон 2</item>
+    </string-array>
+    <string-array name="call_rington_entry_values">
+        <item>ringtone1</item>
+        <item>ringtone2</item>
+    </string-array>
+
+    <string name="msg_rington_def">messagetone3</string>
+    <string-array name="message_rington_entries">
+        <item>Рингтон 1</item>
+        <item>Рингтон 2</item>
+        <item>Рингтон 3</item>
+    </string-array>
+    <string-array name="message_rington_entries_values">
+        <item>messagetone1</item>
+        <item>messagetone2</item>
+        <item>messagetone3</item>
+    </string-array>
+
+    <string name="enc_resolution_def">1</string>
+    <string-array name="enc_resolution_entries">
+        <item>Плохое</item>
+        <item>Среднее</item>
+        <item>Хорошое</item>
+    </string-array>
+
+    <string-array name="enc_resolution_entries_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="type_numbers">
+        <item>IP-телефон</item>
+        <item>Мобильный</item>
+        <item>Другой</item>
+    </string-array>
+
+    <string-array name="times">
+        <item>00:00</item>
+        <item>00:30</item>
+        <item>01:00</item>
+        <item>01:30</item>
+        <item>02:00</item>
+        <item>02:30</item>
+        <item>03:00</item>
+        <item>03:30</item>
+        <item>04:00</item>
+        <item>04:30</item>
+        <item>05:00</item>
+        <item>05:30</item>
+        <item>06:00</item>
+        <item>06:30</item>
+        <item>07:00</item>
+        <item>07:30</item>
+        <item>08:00</item>
+        <item>08:30</item>
+        <item>09:00</item>
+        <item>09:30</item>
+        <item>10:00</item>
+        <item>10:30</item>
+        <item>11:00</item>
+        <item>11:30</item>
+        <item>12:00</item>
+        <item>12:30</item>
+        <item>13:00</item>
+        <item>13:30</item>
+        <item>14:00</item>
+        <item>14:30</item>
+        <item>15:00</item>
+        <item>15:30</item>
+        <item>16:00</item>
+        <item>16:30</item>
+        <item>17:00</item>
+        <item>17:30</item>
+        <item>18:00</item>
+        <item>18:30</item>
+        <item>19:00</item>
+        <item>19:30</item>
+        <item>20:00</item>
+        <item>20:30</item>
+        <item>21:00</item>
+        <item>21:30</item>
+        <item>22:00</item>
+        <item>22:30</item>
+        <item>23:00</item>
+        <item>23:30</item>
+    </string-array>
+
+    <string name="on_number">Включить номер</string>
+    <string name="off_number">Выключить номер</string>
+
+
+    <string name="today">Сегодня</string>
+    <string name="yesterday">Вчера</string>
+
+    <string name="duration_minute">мин.</string>
+    <string name="duration_second">сек.</string>
+    <string name="duration_hour">ч</string>
+
+    <string name="category_employees">Сотрудники</string>
+    <string name="category_personal">Личные</string>
+    <string name="category_global">Общие</string>
+
+    <string name="number_type_inner">Внутренний</string>
+    <string name="number_type_sip">SIP-номер</string>
+    <string name="number_type_home">Домашний</string>
+    <string name="number_type_cell">Мобильный</string>
+    <string name="number_type_work">Рабочий</string>
+    <string name="number_type_other">Другой</string>
+
+    <string name="default_sound">com.virtualats.softphone.DEFAULT_SOUND</string>
+
+    <string name="version_text_format">Версия %s</string>
+
+    <string name="registration_failure">Ошибка регистрации.</string>
+    <string name="not_enough_credentials_for_registration">Недостаточно данных для авторизации.</string>
+    <string name="auth_error_check_account_settings">Ошибка авторизации. Проверьте настройки учетной записи.</string>
+    <string name="server_temporary_unavailable">Сервер временно недоступен.</string>
+    <string name="user_not_found">Пользователь не найден.</string>
+    <string name="request_timeout_can_not_get_resp_from_srv">Превышено время ожидания. Сервер не отвечает.</string>
+    <string name="network_connection_not_available">Сеть недоступна.</string>
+    <string name="registration_erorr">Ошибка регистрации.</string>
+    <string name="connecting">Соединение</string>
+    <string name="later">Позже</string>
+    <string name="modify">Изменить</string>
+    <string name="verify">Проверить</string>
+    <string name="cancel">Отменить</string>
+    <string name="wrong_user_agent">Данное приложение работает только с доменами услуги  компании \«Oraange\»</string>
+    <string name="miss_call">Пропущенный вызов</string>
+
+    <string name="contact_numbers">Контактные номера:</string>
+    <string name="last_calls">Последние вызовы:</string>
+    <string name="actions_with_contact">Действия с контактом:</string>
+
+    <string name="svetets_copyright">Copyright © Svetets Ltd, 2021</string>
+    <string name="app_description">\«Телефон\», операционная система Android</string>
+    <string name="send_msg">Отправить</string>
+    <string name="send_message">Отправить сообщение</string>
+    <string name="back_to_call">Вернуться к разговору</string>
+    <string name="rostelecom">Ростелеком</string>
+    <string name="favorite_contact">Избранный контакт</string>
+    <string name="add_contact_to_mobile">Добавить контакт в мобильный</string>
+    <string name="edit_contact">Редактировать контакт</string>
+    <string name="delete">Удалить</string>
+    <string name="ATC">АТС</string>
+    <string name="mobile">Мобильные</string>
+    <string name="favorite">Избранные</string>
+    <string name="online">Онлайн</string>
+
+    <string name="search">Поиск</string>
+    <string name="new_message">Новое сообщение</string>
+
+    <string name="call">Позвонить</string>
+    <string name="save_as_new">Сохранить как новый контакт</string>
+    <string name="add_to_contact">Добавить к существующему</string>
+    <string name="save_to_mobile">Сохранить в телефон</string>
+
+    <string name="delete_message">Удалить сообщение</string>
+    <string name="copy_message">Копировать сообщение</string>
+
+    <string name="conversation">Беседа</string>
+
+    <string name="save">Сохранить</string>
+
+    <string name="calling">Вызывается</string>
+    <string name="connected">Разговор</string>
+    <string name="busy">Занято</string>
+    <string name="hold">Удержание</string>
+    <string name="ringing">Входящий вызов</string>
+
+    <string name="search_contact_or_group">Поиск аккаунта или группы</string>
+
+    <string name="initialization">Инициализация</string>
+
+    <string name="accept">Принять</string>
+
+    <string name="video_not_support">Данное соединение не поддерживает возможность видео вызова</string>
+    <string name="second_call_unavailable">Вы не можете совершить вызов во время текущего разговора</string>
+    <string name="mobile_cell_call_unavailable">Звонки через мобильный интернет недоступны</string>
+    <string name="call_unavailable_during_phone_call">Вы не можете совершить вызов во время телефонного разговора</string>
+
+    <string name="enter_number">Наберите номер</string>
+
+    <string name="about_sdk">Программа разработана с использованием библиотеки обработки медиа-данных IntegrIT CrystalVu, 2015</string>
+    <string name="im_status_wait">Отправка</string>
+    <string name="im_status_error">Ошибка</string>
+    <string name="skip">ПРОПУСТИТЬ</string>
+    <string name="next">ДАЛЕЕ</string>
+    <string name="begin">НАЧАТЬ</string>
+    <string name="previous">Назад</string>
+    <string name="account_reg_duplication_msg">Под вашей учетной записью зарегистрировались с другого устройства</string>
+    <string name="self_status_vacant">Свободен</string>
+    <string name="self_status_dnd">Не беспокоить</string>
+    <string name="self_status_offline">Heт соединения</string>
+    <string name="show_contact_status">Отображать статус</string>
+    <string name="subscription_limit_reached">Достигнуто максимальное количество подписок на статусы сотрудников.</string>
+    <string name="subscription_limit_reached_title">Достигнуто максимальное количество подписок</string>
+
+    <string name="contant_not_found">Контакт не найден.</string>
+
+    <string name="ats_contacts_load_msg">Загрузка контактов…</string>
+    <string name="ats_contacts_empty_msg">Нет серверных контактов. </string>
+
+    <string name="online_contacts_load_msg">Загрузка контактов…</string>
+    <string name="online_contacts_empty_msg">Для просмотра информации о статусах других Пользователей, перейдите на страницу контакта выбранного Пользователя и включите опцию \"Отображать статус\".</string>
+
+    <string name="favorite_contacts_load_msg">Загрузка контактов...</string>
+    <string name="favorite_contacts_empty_msg">Для добавления контактов в \«избранные\», перейдите на страницу выбранного контакта и включите опцию \"Избранный контакт\".</string>
+
+    <string name="mobile_contacts_load_msg">Загрузка контактов...</string>
+    <string name="mobile_contacts_empty_msg">Нет мобильных контактов.</string>
+    <string name="mobile_contacts_read_banned">Чтение мобильных контактов запрещено. Для отображения мобильных контактов в настройках устройства разрешить чтение мобильных контактов для данного приложения.</string>
+    <string name="need_contact">Для отображения контактов перейдите в настройки -> приложения -> РТ телефон -> Разрешение и Разрешите приложению пользоваться контактами</string>
+
+    <string name="contact_name_load">Идёт загрузка...</string>
+
+    <string name="contact_phones_list_load">Идёт загрузка списка телефонных номеров...</string>
+    <string name="contact_phones_list_empty">Список телефонных номеров пуст.</string>
+
+    <string name="contact_history_list_load">Идёт загрузка истории звонков...</string>
+    <string name="contact_history_list_empty">Список истории звонков пуст.</string>
+
+    <string name="all_history_list_load">Идёт загрузка истории всех звонков...</string>
+    <string name="all_history_list_empty">Список истории всех звонков пуст.</string>
+
+    <string name="in_history_list_load">Идёт загрузка истории входящих звонков...</string>
+    <string name="in_history_List_empty">Список истории входящих звонков пуст.</string>
+
+    <string name="out_history_list_load">Идёт загрузка истории исходящих звонков...</string>
+    <string name="out_history_list_empty">Список истории исходящих звонков пуст.</string>
+
+    <string name="miss_history_list_load">Идёт загрузка истории пропущенных звонков...</string>
+    <string name="miss_history_list_empty">Список истории пропущенных звонков пуст.</string>
+
+    <string name="synchronized_contacts">Синхронизация контактов...</string>
+
+    <string name="CONTACT_PERMISSION_GRANTED">CONTACT_PERMISSION_GRANTED</string>
+
+
+    <string name="settings_account_info">Аккаунт</string>
+
+
+    <string name="permision_available_contacts">Contacts Permissions have been granted. Contacts screen can now be opened.</string>
+    <string name="permissions_not_granted">Permissions were not granted.</string>
+    <string name="todo">TODO</string>
+
+    <string name="statistics">Статистика</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="launch_dialog">Launch Audio Dialog</string>
+
+    <string name="timer_format" translatable="false">%d:%02d</string>
+
+    <string name="err_playing">There was an error playing your file</string>
+
+    <string name="au_cancel">Cancel</string>
+    <string name="au_play">Play</string>
+    <string name="au_stop">Stop</string>
+    <string name="au_resume">Resume</string>
+    <string name="au_pause">Pause</string>
+
+
+
+</resources>
