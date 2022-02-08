@@ -3,7 +3,7 @@
 
     <string name="incoming">Incoming</string>
     <string name="outcoming">Called</string>
-    <string name="talk">Разговор</string>
+    <string name="talk">Talk</string>
     <string name="end_talk">Завершен</string>
 
     <!-- Заголовки таблицы статистики -->
