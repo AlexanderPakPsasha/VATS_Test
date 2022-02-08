@@ -383,19 +383,19 @@ Statistics</string>
 
     <string name="contact_name_load">Идёт загрузка...</string>
 
-    <string name="contact_phones_list_load">Идёт загрузка списка телефонных номеров...</string>
-    <string name="contact_phones_list_empty">Список телефонных номеров пуст.</string>
+    <string name="contact_phones_list_load">Loading list of phone numbers...</string>
+    <string name="contact_phones_list_empty">The list of phone numbers is empty.</string>
 
-    <string name="contact_history_list_load">Идёт загрузка истории звонков...</string>
-    <string name="contact_history_list_empty">Список истории звонков пуст.</string>
+    <string name="contact_history_list_load">Loading call history...</string>
+    <string name="contact_history_list_empty">The call history list is empty.</string>
 
-    <string name="all_history_list_load">Идёт загрузка истории всех звонков...</string>
-    <string name="all_history_list_empty">Список истории всех звонков пуст.</string>
+    <string name="all_history_list_load">Loading history of all calls...</string>
+    <string name="all_history_list_empty">The history list of all calls is empty.</string>
 
-    <string name="in_history_list_load">Идёт загрузка истории входящих звонков...</string>
-    <string name="in_history_List_empty">Список истории входящих звонков пуст.</string>
+    <string name="in_history_list_load">Loading incoming call history...</string>
+    <string name="in_history_List_empty">The incoming call history list is empty.</string>
 
-    <string name="out_history_list_load">Идёт загрузка истории исходящих звонков...</string>
+    <string name="out_history_list_load">Loading outgoing call history...</string>
     <string name="out_history_list_empty">Список истории исходящих звонков пуст.</string>
 
     <string name="miss_history_list_load">Идёт загрузка истории пропущенных звонков...</string>
