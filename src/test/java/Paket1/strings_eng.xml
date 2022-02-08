@@ -165,19 +165,19 @@ Statistics</string>
 
     <string name="incom_call_ringtone_def">ringtone1</string>
     <string-array name="call_rington_entries">
-        <item>Рингтон 1</item>
-        <item>Рингтон 2</item>
+        <item>Ringtone 1</item>
+        <item>Ringtone 2</item>
     </string-array>
     <string-array name="call_rington_entry_values">
-        <item>ringtone1</item>
-        <item>ringtone2</item>
+        <item>ringtone 1</item>
+        <item>ringtone 2</item>
     </string-array>
 
     <string name="msg_rington_def">messagetone3</string>
     <string-array name="message_rington_entries">
-        <item>Рингтон 1</item>
-        <item>Рингтон 2</item>
-        <item>Рингтон 3</item>
+        <item>Ringtone 1</item>
+        <item>Ringtone 2</item>
+        <item>Ringtone 3</item>
     </string-array>
     <string-array name="message_rington_entries_values">
         <item>messagetone1</item>
@@ -187,9 +187,9 @@ Statistics</string>
 
     <string name="enc_resolution_def">1</string>
     <string-array name="enc_resolution_entries">
-        <item>Плохое</item>
-        <item>Среднее</item>
-        <item>Хорошое</item>
+        <item>Low quality</item>
+        <item>Medium quality</item>
+        <item>High quality</item>
     </string-array>
 
     <string-array name="enc_resolution_entries_values">
