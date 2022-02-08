@@ -61,9 +61,8 @@
 
     <!-- Main Menu Bar (mmb)-->
     <string name="mmb_contacts">Contacts</string>
-    <string name="mmb_dialer">Клавиши</string>
-    <string name="mmb_history">Журнал</string>
-    <string name="mmb_dialer">Клавиши</string>
+    <string name="mmb_dialer">Keys</string>
+    <string name="mmb_history">Journal</string>
     <string name="mmb_msg">Сообщения</string>
     <string name="mmb_settings">Настройки</string>
 
