@@ -36,14 +36,14 @@
     <string name="ans_incoming_call_settings">Incoming call settings</string>
     <string name="ans_music">Music</string>
     <string name="ans_vibro">Vibration</string>
-    <string name="ans_rigtone">Рингтон</string>
+    <string name="ans_rigtone">Ringtone</string>
     <string-array name="ans_ringtone_type">
-        <item>Рингтон 1</item>
-        <item>Рингтон 2</item>
+        <item>Ringtone 1</item>
+        <item>Ringtone 2</item>
     </string-array>
 
     <!-- Activity Telephony Settings (ats) -->
-    <string name="ats_video_quality">Качество видео</string>
+    <string name="ats_video_quality">Video quality</string>
     <string-array name="ats_video_quality_type">
         <item>Плохое</item>
         <item>Среднее</item>
