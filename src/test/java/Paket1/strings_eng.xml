@@ -45,7 +45,7 @@
     <!-- Activity Telephony Settings (ats) -->
     <string name="ats_video_quality">Video quality</string>
     <string-array name="ats_video_quality_type">
-        <item>Плохое</item>
+        <item>Low quality</item>
         <item>Среднее</item>
         <item>Хорошее</item>
     </string-array>
