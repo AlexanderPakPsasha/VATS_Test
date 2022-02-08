@@ -61,16 +61,16 @@
 
     <!-- Main Menu Bar (mmb)-->
     <string name="mmb_contacts">Contacts</string>
-    <string name="mmb_dialer">Keys</string>
+    <string name="mmb_dialer">Dialer</string>
     <string name="mmb_history">Journal</string>
-    <string name="mmb_msg">Сообщения</string>
+    <string name="mmb_msg">Messages</string>
     <string name="mmb_settings">Settings</string>
 
     <!-- Fragment History -->
     <string name="all_history">All</string>
     <string name="in_history">Incoming</string>
-    <string name="out_history">Исходящие</string>
-    <string name="miss_history">Пропущенные</string>
+    <string name="out_history">Outgoing</string>
+    <string name="miss_history">Missed</string>
 
     <!-- Fragment Settings -->
     <string name="status_free">Свободен</string>
