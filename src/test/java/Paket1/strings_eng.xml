@@ -279,23 +279,23 @@ Statistics</string>
 
     <string name="default_sound">com.virtualats.softphone.DEFAULT_SOUND</string>
 
-    <string name="version_text_format">Версия %s</string>
+    <string name="version_text_format">Version %s</string>
 
-    <string name="registration_failure">Ошибка регистрации.</string>
-    <string name="not_enough_credentials_for_registration">Недостаточно данных для авторизации.</string>
-    <string name="auth_error_check_account_settings">Ошибка авторизации. Проверьте настройки учетной записи.</string>
-    <string name="server_temporary_unavailable">Сервер временно недоступен.</string>
-    <string name="user_not_found">Пользователь не найден.</string>
-    <string name="request_timeout_can_not_get_resp_from_srv">Превышено время ожидания. Сервер не отвечает.</string>
-    <string name="network_connection_not_available">Сеть недоступна.</string>
-    <string name="registration_erorr">Ошибка регистрации.</string>
-    <string name="connecting">Соединение</string>
-    <string name="later">Позже</string>
-    <string name="modify">Изменить</string>
-    <string name="verify">Проверить</string>
-    <string name="cancel">Отменить</string>
-    <string name="wrong_user_agent">Данное приложение работает только с доменами услуги  компании \«Oraange\»</string>
-    <string name="miss_call">Пропущенный вызов</string>
+    <string name="registration_failure">Registration error.</string>
+    <string name="not_enough_credentials_for_registration">Insufficient data for authorization.</string>
+    <string name="auth_error_check_account_settings">Authorisation error. Check your account settings.</string>
+    <string name="server_temporary_unavailable">Server temporarily unavailable.</string>
+    <string name="user_not_found">User is not found.</string>
+    <string name="request_timeout_can_not_get_resp_from_srv">Timeout exceeded. The server is not responding.</string>
+    <string name="network_connection_not_available">The network is unavailable.</string>
+    <string name="registration_erorr">Registration error.</string>
+    <string name="connecting">Connecting</string>
+    <string name="later">Later</string>
+    <string name="modify">Change</string>
+    <string name="verify">Check</string>
+    <string name="cancel">Cancel</string>
+    <string name="wrong_user_agent">This application only works with company service domains \«Oraange\»</string>
+    <string name="miss_call">Missed call</string>
 
     <string name="contact_numbers">Контактные номера:</string>
     <string name="last_calls">Последние вызовы:</string>
