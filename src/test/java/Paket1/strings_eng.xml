@@ -275,7 +275,7 @@ Statistics</string>
     <string name="number_type_home">Home</string>
     <string name="number_type_cell">Mobile</string>
     <string name="number_type_work">Worker</string>
-    <string name="number_type_other">Другой</string>
+    <string name="number_type_other">Another</string>
 
     <string name="default_sound">com.virtualats.softphone.DEFAULT_SOUND</string>
 
@@ -368,21 +368,21 @@ Incoming call </string>
 
     <string name="contant_not_found">Contact not found.</string>
 
-    <string name="ats_contacts_load_msg">Загрузка контактов…</string>
-    <string name="ats_contacts_empty_msg">Нет серверных контактов. </string>
+    <string name="ats_contacts_load_msg">Loading contacts...</string>
+    <string name="ats_contacts_empty_msg">There are no server contacts. </string>
 
-    <string name="online_contacts_load_msg">Загрузка контактов…</string>
-    <string name="online_contacts_empty_msg">Для просмотра информации о статусах других Пользователей, перейдите на страницу контакта выбранного Пользователя и включите опцию \"Отображать статус\".</string>
+    <string name="online_contacts_load_msg">Loading contacts...</string>
+    <string name="online_contacts_empty_msg">To view information about the statuses of other Users, go to the contact page of the selected User and enable the option \"Show status\".</string>
 
     <string name="favorite_contacts_load_msg">Загрузка контактов...</string>
-    <string name="favorite_contacts_empty_msg">Для добавления контактов в \«избранные\», перейдите на страницу выбранного контакта и включите опцию \"Избранный контакт\".</string>
+    <string name="favorite_contacts_empty_msg">To add contacts to \«favorites\», go to the page of the selected contact and enable the option \"Favorite contact\".</string>
 
-    <string name="mobile_contacts_load_msg">Загрузка контактов...</string>
-    <string name="mobile_contacts_empty_msg">Нет мобильных контактов.</string>
-    <string name="mobile_contacts_read_banned">Чтение мобильных контактов запрещено. Для отображения мобильных контактов в настройках устройства разрешить чтение мобильных контактов для данного приложения.</string>
-    <string name="need_contact">Для отображения контактов перейдите в настройки -> приложения -> РТ телефон -> Разрешение и Разрешите приложению пользоваться контактами</string>
+    <string name="mobile_contacts_load_msg">Loading contacts...</string>
+    <string name="mobile_contacts_empty_msg">No mobile contacts.</string>
+    <string name="mobile_contacts_read_banned">Reading mobile contacts is prohibited. To display mobile contacts in device settings, allow reading mobile contacts for this application.</string>
+    <string name="need_contact">To display contacts, go to settings -> applications -> RT phone -> Permission and Allow the application to use contacts</string>
 
-    <string name="contact_name_load">Идёт загрузка...</string>
+    <string name="contact_name_load">Loading...</string>
 
     <string name="contact_phones_list_load">Loading list of phone numbers...</string>
     <string name="contact_phones_list_empty">The list of phone numbers is empty.</string>
