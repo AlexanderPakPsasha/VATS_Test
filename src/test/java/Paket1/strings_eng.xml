@@ -88,9 +88,9 @@
     <string name="codecs_settings">Кодеки</string>
     <string name="about">О нас</string>
 
-    <string name="default_btn">Настройки по умолчанию</string>
-    <string name="close_app">Выход из приложения</string>
-    <string name="exit">Выход</string>
+    <string name="default_btn">Default settings</string>
+    <string name="close_app">Exiting the application</string>
+    <string name="exit">Exit</string>
 
     <!--  Strings for possible PreferenceActivity Back/Next buttons -->
     <string name="back_button_label">Back</string>
@@ -119,12 +119,12 @@
     <string name="is_storage">isAccessStorage</string>
     <string name="is_camera">isAccessCamera</string>
 
-    <string name="noMicPermission">Для дальнейшей работы предоставьте приложению доступ к микрофону в разделе \«Настройки\» устройства.</string>
-    <string name="nullCamera">Для совершения видео вызовов разрешите приложению пользоваться камерой телефона</string>
-    <string name="nulllDataSto">Для дальнейшей работы необходимо предоставить приложению доступ к записи на устройство</string>
+    <string name="noMicPermission">For further work, grant the application access to the microphone in the \"Settings\" section of the device.</string>
+    <string name="nullCamera">Allow the app to use your phone's camera to make video calls</string>
+    <string name="nulllDataSto">For further work, you must grant the application write access to the device</string>
 
     <string-array name="status_array">
-        <item>Свободен</item>
+        <item>Free</item>
         <item>Не беспокоить</item>
         <item>Нет соединения</item>
     </string-array>
