@@ -46,8 +46,8 @@
     <string name="ats_video_quality">Video quality</string>
     <string-array name="ats_video_quality_type">
         <item>Low quality</item>
-        <item>Среднее</item>
-        <item>Хорошее</item>
+        <item>Medium quality</item>
+        <item>High quality</item>
     </string-array>
 
     <!-- Contact Detaly Activity (cda)-->
