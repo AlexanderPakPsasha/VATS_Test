@@ -297,45 +297,46 @@ Statistics</string>
     <string name="wrong_user_agent">Данное приложение работает только с доменами услуги  компании \«Oraange\»</string>
     <string name="miss_call">Пропущенный вызов</string>
 
-    <string name="contact_numbers">Контактные номера:</string>
-    <string name="last_calls">Последние вызовы:</string>
-    <string name="actions_with_contact">Действия с контактом:</string>
+    <string name="contact_numbers">Contact number:</string>
+    <string name="last_calls">Recent calls:</string>
+    <string name="actions_with_contact">Contact Actions:</string>
 
     <string name="svetets_copyright">Copyright © Svetets Ltd, 2021</string>
-    <string name="app_description">\«Телефон\», операционная система Android</string>
-    <string name="send_msg">Отправить</string>
-    <string name="send_message">Отправить сообщение</string>
-    <string name="back_to_call">Вернуться к разговору</string>
-    <string name="rostelecom">Ростелеком</string>
-    <string name="favorite_contact">Избранный контакт</string>
-    <string name="add_contact_to_mobile">Добавить контакт в мобильный</string>
-    <string name="edit_contact">Редактировать контакт</string>
-    <string name="delete">Удалить</string>
-    <string name="ATC">АТС</string>
-    <string name="mobile">Мобильные</string>
-    <string name="favorite">Избранные</string>
-    <string name="online">Онлайн</string>
+    <string name="app_description">\«Phone\», operating system   Android</string>
+    <string name="send_msg">Send</string>
+    <string name="send_message">Send a message</string>
+    <string name="back_to_call">Back to the conversation </string>
+    <string name="rostelecom">Rostelecom</string>
+    <string name="favorite_contact">Favorite contact</string>
+    <string name="add_contact_to_mobile">Add contact to mobile</string>
+    <string name="edit_contact">Edit Contact</string>
+    <string name="delete">Delete</string>
+    <string name="ATC">PBX</string>
+    <string name="mobile">Mobile</string>
+    <string name="favorite">Favorite</string>
+    <string name="online">Online</string>
 
-    <string name="search">Поиск</string>
-    <string name="new_message">Новое сообщение</string>
+    <string name="search">Search</string>
+    <string name="new_message">New message</string>
 
-    <string name="call">Позвонить</string>
-    <string name="save_as_new">Сохранить как новый контакт</string>
-    <string name="add_to_contact">Добавить к существующему</string>
-    <string name="save_to_mobile">Сохранить в телефон</string>
+    <string name="call">Call</string>
+    <string name="save_as_new">Save as new contact</string>
+    <string name="add_to_contact">Add to existing contact</string>
+    <string name="save_to_mobile">Save to phone</string>
 
-    <string name="delete_message">Удалить сообщение</string>
-    <string name="copy_message">Копировать сообщение</string>
+    <string name="delete_message">Delete message</string>
+    <string name="copy_message">Copy message</string>
 
-    <string name="conversation">Беседа</string>
+    <string name="conversation">Conversation</string>
 
-    <string name="save">Сохранить</string>
+    <string name="save">Save</string>
 
-    <string name="calling">Вызывается</string>
-    <string name="connected">Разговор</string>
-    <string name="busy">Занято</string>
-    <string name="hold">Удержание</string>
-    <string name="ringing">Входящий вызов</string>
+    <string name="calling">Called</string>
+    <string name="connected">Conversation</string>
+    <string name="busy">Busy</string>
+    <string name="hold">Hold-down </string>
+    <string name="ringing">
+Incoming call </string>
 
     <string name="search_contact_or_group">Поиск аккаунта или группы</string>
 
